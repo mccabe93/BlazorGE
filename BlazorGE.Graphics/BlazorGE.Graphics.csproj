@@ -3,7 +3,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Title>BlazorGE.Graphics</Title>
+    <Title>BlazorGE.Graphics.net</Title>
     <Description>BlazorGE (Game Engine) is a lightweight Blazor game engine/framework created by Aventius and other contributors (see Git repo)</Description>
     <PackageProjectUrl>https://github.com/mccabe93/BlazorGE/tree/net10</PackageProjectUrl>
     <RepositoryUrl>https://github.com/mccabe93/BlazorGE/tree/net10</RepositoryUrl>
@@ -13,6 +13,7 @@
     <Company>Aventius,others</Company>
     <Authors>Aventius,others</Authors>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>BlazorGE.Graphics.net</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
